@@ -1,0 +1,69 @@
+
+
+body{
+    margin: 0%;
+    font-family: lato;
+}
+
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+
+}
+.half-width img{
+    width:60%;
+}
+
+.red-highlight{
+    text-decoration: none;
+    color:salmon;
+   
+}
+h1{
+    font-size: 40px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg,tomato,salmon);
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+.first-section{
+   
+    clear:both;
+    display: flex;
+    margin-bottom: 200px;
+}
+
+
+
+.second-section {
+    background-color: rgba(51, 233, 142, 0.082);
+    clear: both;
+    display: flex;
+    margin-bottom: 100px;
+}
+.third-section{
+    clear: both;
+    display: flex;
+
+    margin: auto;
+    margin-bottom: 200px;
+}
+.quater{
+    float:left;
+    width: 30%;
+    margin: auto;
+    box-shadow: 15px 10px 10px rgb(197, 197, 197);
+    
+
+}
+
+.quater img{
+    width: 100%;
+   
+}
